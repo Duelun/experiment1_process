@@ -31,7 +31,9 @@ The script was published to check the correctness of the measurement methodology
  - Set graf number in each one window.
  - Change time frame of datas.
  - Manipulate datas by custom functions. A custom function need write into file and after it selectable in drop-down menu. A function can has maximum six parameter. /can increased by programming/
- - Move on x and y axis, shift, zoom a graf or a graf group in the window.
+ - Move on x and y axis, shift, zoom, sincronising a graf or a graf group in the window.
+ - Setable resolution and timeframe of grafs.
+ - To take picture from windows.
 
 <picture>
  <img alt="script-window" src="https://github.com/duelun/experiment1_process/blob/main/pictures/pic3.png">

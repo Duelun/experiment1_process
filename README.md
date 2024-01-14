@@ -5,7 +5,7 @@ The script was published to check the correctness of the measurement methodology
 
 ![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic1.png?raw=true)
 <picture>
- <img alt="electric-board" src="[YOUR-DEFAULT-IMAGE](https://github.com/duelun/experiment1_save/blob/main/pictures/pic1.png)">
+ <img alt="electric-board" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic1.png">
 </picture>
 
 

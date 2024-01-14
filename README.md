@@ -3,27 +3,30 @@ The device directed by a Rapsberry Pi 4 micro-computer. This script runs on Rasp
 The presented script can handle the saved datas.
 The script was published to check the correctness of the measurement methodology.
 
-![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic1.png?raw=true)
 <picture>
  <img alt="electric-board" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic1.png">
 </picture>
 
 
-The operation of the script:
+# The operation of the script:
  - It start the run of electrical boards, measurer periferias and null the registers.
  - At the set time the script close the lach gates at same time on both circual board.
  - Read out and store the 2 x 48 bit datas and temperature sensors values.
  - Open the lach gates.
  - After the preset number of measuring stops the device and saves the struktured datas into file.
- - 
-![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic2.png?raw=true)
+   
+<picture>
+ <img alt="electric-board" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png">
+</picture>
 
-The abilities of script:
+# The abilities of script:
  - Setable warming time. The electrical boards and periferias run without meassuring to warming up them at the working temperature.
  - Setable measurement interval. The devices has stable working from 0.1 s measuring interval. /without data showing/
  - Setable measuring number.
  - Setable continous measurment set number.
  - Showing data values and data grafs. /switchable/
- - 
-![alt text](https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png?raw=true)
+
+<picture>
+ <img alt="script-window" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png">
+</picture>
  

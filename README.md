@@ -1,5 +1,5 @@
 I am make experiments to prove my Dual Element Universe theory. To this, I designed an electronic twin-board device. The device can take five different type electrical impulses on five channels at the exactly same time on twin-panels. By doing so, I can determine the difference between the fload rate of time in two different spatial locations and hopefully prove the existence of the ether.
-The device directed by a Rapsberry Pi 4 micro-computer.  [This script](https://github.com/duelun/experiment1_process/blob/main) runs on Raspberry Pi 4 and handle the device and saves the measurement datas.
+The device directed by a Rapsberry Pi 4 micro-computer.  [This script](https://github.com/duelun/experiment1_save/blob/main) runs on Raspberry Pi 4 and handle the device and saves the measurement datas.
 
 The presented script can handle the saved datas.
 
@@ -18,7 +18,7 @@ The script was published to check the correctness of the measurement methodology
  - After the preset number of measuring stops the device and saves the struktured datas into file.
    
 <picture>
- <img alt="electric-board" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic2.png">
+ <img alt="electric-board" src="https://github.com/duelun/experiment1_process/blob/main/pictures/pic2.png">
 </picture>
 
 # The abilities of script:
@@ -29,6 +29,6 @@ The script was published to check the correctness of the measurement methodology
  - Showing data values and data grafs. /switchable/
 
 <picture>
- <img alt="script-window" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png">
+ <img alt="script-window" src="https://github.com/duelun/experiment1_process/blob/main/pictures/pic3.png">
 </picture>
  

@@ -12,8 +12,8 @@ The script was published to check the correctness of the measurement methodology
 
 # The operation of the script:
  - It opens data file.
- - Structure the loaded datas into arrays.
- - Handle the datas as a cohesive package by measured oscillation of electrick sign in one period, the time of measure and the measured temperatures.
+ - Structures the loaded datas into arrays.
+ - Handles the datas as a cohesive package by measured oscillation of electrick sign in one period, the time of measure and the measured temperatures.
  - We can draw datas as graf into windows and/or print data values into table.
  - We can manipulate grafs by custom functions, compare two graf to each other.
  - We can add, extract, multiple etc. or process custom function on a graf or on two grafs related to each other.

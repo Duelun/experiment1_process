@@ -16,7 +16,7 @@ The script was published to check the correctness of the measurement methodology
  - After the preset number of measuring stops the device and saves the struktured datas into file.
    
 <picture>
- <img alt="electric-board" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic3.png">
+ <img alt="electric-board" src="https://github.com/duelun/experiment1_save/blob/main/pictures/pic2.png">
 </picture>
 
 # The abilities of script:

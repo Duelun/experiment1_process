@@ -1,4 +1,4 @@
-I am make experiments to prove my Dual Element Universe theory. To this, I designed an electronic twin-board device. The device can take five different type electrical impulses on five channels at the exactly same time on twin-panels. By doing so, I can determine the difference between the fload rate of time in two different spatial locations and hopefully prove the existence of the ether.
+> I am make experiments to prove my Dual Element Universe theory. To this, I designed an electronic twin-board device. The device can take five different type electrical impulses on five channels at the exactly same time on twin-panels. By doing so, I can determine the difference between the fload rate of time in two different spatial locations and hopefully prove the existence of the ether.
 The device directed by a Rapsberry Pi 4 micro-computer. This script runs on Raspberry Pi 4 and handle the device and saves the measurement datas.
 The presented script can handle the saved datas.
 The script was published to check the correctness of the measurement methodology.

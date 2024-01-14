@@ -11,22 +11,27 @@ The script was published to check the correctness of the measurement methodology
 
 
 # The operation of the script:
- - It start the run of electrical boards, measurer periferias and null the registers.
- - At the set time the script close the lach gates at same time on both circual board.
- - Read out and store the 2 x 48 bit datas and temperature sensors values.
- - Open the lach gates.
- - After the preset number of measuring stops the device and saves the struktured datas into file.
+ - It open data file.
+ - Structure the loaded datas into arrays.
+ - Handle the datas as a cohesive package by measured oscillation of electrick sign in one period, the time of measure and the measured temperatures.
+ - We can draw datas as graf into windows and/or print data values into table.
+ - We can manipulate grafs by custom functions, compare two graf to each other.
+ - We can add, extract, multiple etc. or process custom function on a graf or on two grafs related to each other.
+ - We can take picture from any window.
+ - Can save back the manipulated arrays into file.
    
 <picture>
  <img alt="electric-board" src="https://github.com/duelun/experiment1_process/blob/main/pictures/pic2.png">
 </picture>
 
 # The abilities of script:
- - Setable warming time. The electrical boards and periferias run without meassuring to warming up them at the working temperature.
- - Setable measurement interval. The devices has stable working from 0.1 s measuring interval. /without data showing/
- - Setable measuring number.
- - Setable continous measurment set number.
- - Showing data values and data grafs. /switchable/
+ - Load, save by basic way.
+ - Delete graf one by one or in group.
+ - Set window number and size.
+ - Set graf number in each one window.
+ - Change time frame of datas.
+ - Manipulate datas by custom functions. A custom function need write into file and after it selectable in drop-down menu. A function can has maximum six parameter. /can increased by programming/
+ - Move on x and y axis, shift, zoom a graf or a graf group in the window.
 
 <picture>
  <img alt="script-window" src="https://github.com/duelun/experiment1_process/blob/main/pictures/pic3.png">
